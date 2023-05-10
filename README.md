@@ -8,7 +8,7 @@
 
 **File 3:** *"MP_NB_Rcode.r"* - This is the full R code to reproduce the data analysis. The code assumes the two included .csv files are downloaded and available for reference from your working directory.        
 
-**File 4:** *"Master Plastics Analysis.csv"* - This is one of two necessarry data files, which is required to be available in your working directory for the analysis R code.       
+**File 4:** *"Master Plastics Analysis.csv"* - This is one of two necessary data files, which is required to be available in your working directory for the analysis R code.       
 
-**File 5:** *"sample_event_data.csv"* - This is one of two necessarry data files, which is required to be available in your working directory for the analysis R code.
+**File 5:** *"sample_event_data.csv"* - This is one of two necessary data files, which is required to be available in your working directory for the analysis R code.
 
