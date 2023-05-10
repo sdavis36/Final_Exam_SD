@@ -1,6 +1,6 @@
 # Final_Exam_SD.  
 
-This repo contains the necessary files to read and reproduce the data analysis in R for the paper titled "Spatial and Seasonal Distributions and Characteristics of Microplastics in Narragansett Bay Surface Water".     
+### This repo contains the necessary files to read and reproduce the data analysis in R for the paper titled "Spatial and Seasonal Distributions and Characteristics of Microplastics in Narragansett Bay Surface Water".     
 
 File 1: "Spatial and Seasonal Distributions and Characteristics of Microplastics in Narragansett Bay Surface Water.pdf". This is the analysis paper, which provides narrative on the study design, methods, analysis, and discussion.        
 
